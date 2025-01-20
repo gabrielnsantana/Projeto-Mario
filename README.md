@@ -5,4 +5,4 @@ Uma aplicação web full-stack que conecta clientes com encanadores de forma rá
 HTML5 - CSS3 - Javascript
 <br>
 <h2></h2>
-<img src="https://raw.githubusercontent.com/GuilhermeRisso/projeto-Mario-git/24eefe275f5f03288e65e014d6fd1c7b427caff3/img/Desktop%20Screenshot%202024.05.22%20-%2021.34.05.47.png">
+<img src="https://github.com/user-attachments/assets/ae775979-3fca-4d48-a1ae-6ee13ceb2855">
